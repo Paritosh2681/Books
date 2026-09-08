@@ -1,0 +1,7 @@
+# Books over 100 MB - excluded because GitHub blocks files larger than 100 MB
+The housing design handbook_ a guide to good practice ( PDFDrive ).pdf
+238528-A History Of Architecture (1943) - Sir Banister Flecher.pdf
+The Arci of india.pdf
+
+# Windows shortcut files
+*.lnk
